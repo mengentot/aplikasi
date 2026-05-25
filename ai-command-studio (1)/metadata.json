@@ -1,0 +1,6 @@
+{
+  "name": "AI Command Studio",
+  "description": "Premium multi-API desktop workspace for Windows, featuring real-time token tracking, smart failover, and prompt optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
